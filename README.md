@@ -1,8 +1,9 @@
-<p align="center">
-  # Regression-Capstone-Project
+<h1 align="center"> Bike Sharing Demand </h1>
+<h2 align="center"> Regression Capstone Project </h2>
+
+<p align="center"> 
+  <img src="Images/bike.jpg" alt="bike.png">
 </p>
 
-<p align="center">
-![image](https://user-images.githubusercontent.com/81156555/186420329-ebdc5de6-a563-476f-bb70-95cfdd403854.png)
-</p>
+
 
