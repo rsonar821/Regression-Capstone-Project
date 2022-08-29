@@ -70,8 +70,6 @@ Some of the data insights obtained through Exploratory Data Analysis are as:
 Calculated the R2 Score of all the algorithms using cross validation with 10 kfolds and the results were as follows:
 * Linear Regression: 0.64
 * Ridge Regression: 0.64
-* Lasso Regression: 0.60
-* Support Vector Regressor: 0.75
 * Decision Tree Regressor: 0.81
 * Random Forest Regressor: 0.90
 * Gradient Boosting Regressor: 0.87
